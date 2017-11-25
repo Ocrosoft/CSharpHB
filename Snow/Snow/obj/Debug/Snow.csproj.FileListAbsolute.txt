@@ -1,0 +1,38 @@
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.csproj.GenerateResource.Cache
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.Form1.resources
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\bin\Debug\Snow.exe
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\bin\Debug\Snow.pdb
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.exe
+C:\Documents and Settings\ndu\My Documents\Visual Studio 2008\Projects\Snow\Snow\obj\Debug\Snow.pdb
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.exe
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.pdb
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.Form1.resources
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\obj\Debug\Snow.csproj.GenerateResource.Cache
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\bin\Debug\Snow.exe
+C:\Documents and Settings\ndu\Desktop\Snow\Snow\bin\Debug\Snow.pdb
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.exe
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.pdb
+D:\360data\重要数据\桌面\Snow\Snow\bin\Debug\Snow.exe
+D:\360data\重要数据\桌面\Snow\Snow\bin\Debug\Snow.pdb
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.Form1.resources
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\360data\重要数据\桌面\Snow\Snow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.exe
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.pdb
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\1.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\2.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\3.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Resources\4.gif
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Snow.exe
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\bin\Debug\Snow.pdb
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\ResolveAssemblyReference.cache
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.Form1.resources
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\Snow.Properties.Resources.resources
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\vs2010\WinForm\Excise_DesktopSnow\Snow\obj\Debug\GenerateResource-ResGen.write.1.tlog
