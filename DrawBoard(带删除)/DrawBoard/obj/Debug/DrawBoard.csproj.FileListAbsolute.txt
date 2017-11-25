@@ -1,0 +1,56 @@
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\bin\Debug\DrawBoard.exe.config
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\bin\Debug\DrawBoard.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\bin\Debug\DrawBoard.pdb
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\obj\Debug\DrawBoard.Properties.Resources.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\obj\Debug\DrawBoard.csproj.GenerateResource.Cache
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\obj\Debug\DrawBoard.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\obj\Debug\DrawBoard.pdb
+C:\Users\qazws\AppData\Local\Temporary Projects\DrawBoard\obj\Debug\DrawBoard.FormMain.resources
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\bin\Debug\DrawBoard.exe.config
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.exe
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.pdb
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.csprojResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.FormMain.resources
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\bin\Debug\DrawBoard.exe
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\bin\Debug\DrawBoard.pdb
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgPenWidth.resources
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgBmpSize.resources
+C:\Users\qazws\OneDrive\C#\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgDrawTool.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\bin\Debug\DrawBoard.exe.config
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.exe
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.pdb
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\bin\Debug\DrawBoard.exe
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\bin\Debug\DrawBoard.pdb
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgBmpSize.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgDrawTool.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgPenWidth.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.FormMain.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\DrawBoard.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard\DrawBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\bin\Debug\DrawBoard.exe.config
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.exe
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.pdb
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\bin\Debug\DrawBoard.exe
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\bin\Debug\DrawBoard.pdb
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgBmpSize.resources
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgDrawTool.resources
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.DlgPenWidth.resources
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.FormMain.resources
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DrawBoard\DrawBoard\obj\Debug\DrawBoard.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\bin\Debug\DrawBoard.exe.config
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.exe
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.pdb
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\bin\Debug\DrawBoard.exe
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\bin\Debug\DrawBoard.pdb
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.DlgBmpSize.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.DlgDrawTool.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.DlgPenWidth.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.FormMain.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\DrawBoard2\DrawBoard\obj\Debug\DrawBoard.csproj.GenerateResource.Cache

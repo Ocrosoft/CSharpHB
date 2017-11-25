@@ -1,0 +1,16 @@
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.FormMain.resources
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.exe
+C:\Users\qazws\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.pdb
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.exe
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.pdb
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.FormMain.resources
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\C#Proj\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.Cache

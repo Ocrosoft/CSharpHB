@@ -1,0 +1,16 @@
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ocrosoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\qazws\OneDrive\C#Proj\Mota\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

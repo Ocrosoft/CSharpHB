@@ -1,0 +1,16 @@
+C:\Users\qazws\AppData\Local\Temporary Projects\RhythmEditor-Ocrosoft\bin\Debug\RhythmEditor-Ocrosoft.exe.config
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\bin\Debug\RhythmEditor-Ocrosoft.exe.config
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor-Ocrosoft.csprojResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor_Ocrosoft.Form1.resources
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor_Ocrosoft.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor-Ocrosoft.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\bin\Debug\RhythmEditor-Ocrosoft.exe
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\bin\Debug\RhythmEditor-Ocrosoft.pdb
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor-Ocrosoft.exe
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor-Ocrosoft.pdb
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\bin\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor-Ocrosoft.csproj.ResolveComReference.cache
+C:\Users\qazws\OneDrive\C#Proj\RhythmEditor-Ocrosoft\RhythmEditor-Ocrosoft\obj\Debug\RhythmEditor_Ocrosoft.FormInfo.resources

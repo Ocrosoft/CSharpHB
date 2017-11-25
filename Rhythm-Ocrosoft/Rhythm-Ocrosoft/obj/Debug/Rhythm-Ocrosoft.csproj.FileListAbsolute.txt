@@ -1,0 +1,7 @@
+C:\Users\qazws\AppData\Local\Temporary Projects\Rhythm-Ocrosoft\bin\Debug\Rhythm-Ocrosoft.exe.config
+C:\Users\qazws\OneDrive\C#Proj\Rhythm-Ocrosoft\Rhythm-Ocrosoft\bin\Debug\Rhythm-Ocrosoft.exe.config
+C:\Users\qazws\OneDrive\C#Proj\Rhythm-Ocrosoft\Rhythm-Ocrosoft\obj\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\Rhythm-Ocrosoft\Rhythm-Ocrosoft\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\Rhythm-Ocrosoft\Rhythm-Ocrosoft\obj\Debug\Rhythm-Ocrosoft.csproj.ResolveComReference.cache
+C:\Users\qazws\OneDrive\C#Proj\Rhythm-Ocrosoft\Rhythm-Ocrosoft\obj\Debug\Rhythm-Ocrosoft.exe
+C:\Users\qazws\OneDrive\C#Proj\Rhythm-Ocrosoft\Rhythm-Ocrosoft\obj\Debug\Rhythm-Ocrosoft.pdb

@@ -1,0 +1,16 @@
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\bin\Debug\ChessServer.exe
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\bin\Debug\ChessServer.pdb
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\obj\Debug\ChessServer.FormMain.resources
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\obj\Debug\ChessServer.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\obj\Debug\ChessServer.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\obj\Debug\ChessServer.exe
+C:\Users\qazws\OneDrive\C#Proj\ChessServer\ChessServer\obj\Debug\ChessServer.pdb
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.exe
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.pdb
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\bin\Debug\ChessServer.exe
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\bin\Debug\ChessServer.pdb
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.FormMain.resources
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ChessServer\ChessServer\obj\Debug\ChessServer.csproj.GenerateResource.Cache

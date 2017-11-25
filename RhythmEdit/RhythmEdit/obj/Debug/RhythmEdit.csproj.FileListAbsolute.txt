@@ -1,0 +1,27 @@
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\Interop.WMPLib.dll
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.csproj.ResolveComReference.cache
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.FormEditor.resources
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.Properties.Resources.resources
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.csproj.GenerateResource.Cache
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\bin\Debug\RhythmEdit.exe
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\bin\Debug\RhythmEdit.pdb
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\bin\Debug\Interop.WMPLib.dll
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.exe
+C:\Users\qazws\Documents\Visual Studio 2008\Projects\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.pdb
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.csproj.ResolveComReference.cache
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.exe
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.pdb
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\bin\Debug\RhythmEdit.exe
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\bin\Debug\RhythmEdit.pdb
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\bin\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.FormEditor.resources
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.FileInfo.resources
+C:\Users\qazws\OneDrive\C#Proj\RhythmEdit\RhythmEdit\obj\Debug\RhythmEdit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E60A27C-2706-48E0-BD33-52BBD0F07ED2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DrawBoard</RootNamespace>
+    <AssemblyName>DrawBoard</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Pencil.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DlgBmpSize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgBmpSize.Designer.cs">
+      <DependentUpon>DlgBmpSize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DlgDrawTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgDrawTool.Designer.cs">
+      <DependentUpon>DlgDrawTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DlgPenWidth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgPenWidth.Designer.cs">
+      <DependentUpon>DlgPenWidth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shape.cs" />
+    <EmbeddedResource Include="DlgBmpSize.resx">
+      <DependentUpon>DlgBmpSize.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgDrawTool.resx">
+      <DependentUpon>DlgDrawTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgPenWidth.resx">
+      <DependentUpon>DlgPenWidth.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regtangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Width.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\px4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Width-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Color-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regtangle -16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sketch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sketch-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pencil.ico" />
+    <None Include="Resources\Pencil.png" />
+    <None Include="Resources\zoom-16.png" />
+    <None Include="Resources\FullScr.png" />
+    <None Include="Resources\SaveAs-16.png" />
+    <None Include="Resources\Save-16.png" />
+    <None Include="Resources\Close-16.png" />
+    <None Include="Resources\PeninScreen.png" />
+    <None Include="Resources\Prtscn.png" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\min-16.png" />
+    <None Include="Resources\min.png" />
+    <None Include="Resources\magnifying-16.png" />
+    <None Include="Resources\magnifying.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\SaveAs.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\OpenFile.png" />
+    <None Include="Resources\NewFile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

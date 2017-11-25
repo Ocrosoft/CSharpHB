@@ -1,0 +1,48 @@
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\bin\Debug\Chess.exe.config
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\bin\Debug\Chess.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\bin\Debug\Chess.pdb
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\obj\Debug\Chess.FormMain.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\obj\Debug\Chess.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\Chess\obj\Debug\Chess.pdb
+C:\Users\qazws\OneDrive\C#\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\qazws\OneDrive\C#\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\qazws\OneDrive\C#\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\qazws\OneDrive\C#\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\qazws\OneDrive\C#\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\qazws\OneDrive\C#\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#\Chess\Chess\obj\Debug\Chess.FormMain.resources
+C:\Users\qazws\OneDrive\C#\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.FormMain.resources
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.csproj.ResolveComReference.cache
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\bin\Debug\Interop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Chess.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Chess.FormMain.resources
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Administrator\Desktop\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Administrator\Desktop\Chess\Chess\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Chess\Chess\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.DlgSendChallenge.resources
+C:\Users\qazws\OneDrive\C#Proj\Chess\Chess\obj\Debug\Chess.DlgAcceptChallenge.resources

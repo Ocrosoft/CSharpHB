@@ -1,0 +1,8 @@
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\obj\Debug\shizixiaochu.Form1.resources
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\obj\Debug\shizixiaochu.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\obj\Debug\shizixiaochu.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\bin\Debug\shizixiaochu.exe
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\bin\Debug\shizixiaochu.pdb
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\obj\Debug\shizixiaochu.exe
+C:\Users\qazws\OneDrive\C#Proj\shizixiaochu\shizixiaochu\obj\Debug\shizixiaochu.pdb

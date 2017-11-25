@@ -1,0 +1,27 @@
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\bin\Debug\Timer.exe
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\bin\Debug\Timer.pdb
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.Form1.resources
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.exe
+c:\users\qazws\documents\visual studio 2015\Projects\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\qazws\Documents\Visual Studio 2015\Projects\Timer\Timer\obj\Debug\Timer.Digit.resources
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\qazws\OneDrive\C#\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\qazws\OneDrive\C#\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.Digit.resources
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\Timer.Digit.resources
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
